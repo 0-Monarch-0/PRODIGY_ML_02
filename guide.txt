@@ -1,0 +1,2 @@
+you need to install the following libraries to run the program.
+pandas, sklearn, matplotlib, numpy.but numpy is comming with pandas so just make sure you do have the library.
